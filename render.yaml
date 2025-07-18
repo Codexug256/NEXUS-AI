@@ -1,7 +1,7 @@
 services:
   - type: web
-    name: kord-bot
-    repo: https://github.com/M3264/Kord-Ai.git
+    name: Nexus Ai-bot
+    repo: https://github.com/Codexug256/NEXUS-AI.git
     branch: master
     env: docker
     dockerfilePath: Dockerfile
